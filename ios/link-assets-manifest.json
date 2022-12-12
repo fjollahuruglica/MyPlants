@@ -1,0 +1,21 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "src/assets/fonts/Noah-Bold.otf",
+      "sha1": "34e2f0ff0c7f88b1113143867ad801cff28a7971"
+    },
+    {
+      "path": "src/assets/fonts/Noah-BoldItalic.otf",
+      "sha1": "ebcf59aa2e621394532eda48b50557eff391f836"
+    },
+    {
+      "path": "src/assets/fonts/Noah-Regular.otf",
+      "sha1": "134371df6360a27e667556aa99a66d1b43289636"
+    },
+    {
+      "path": "src/assets/fonts/Noah-RegularItalic.otf",
+      "sha1": "4b835e8179a972128d5293f320273fa95f4f4508"
+    }
+  ]
+}
